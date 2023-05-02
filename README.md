@@ -8,7 +8,10 @@
     - [DEMO LINK](https://gusillus.github.io/todo-app/)
 
 The Todo List application is designed to organize a task list. Users can add, delete, and edit tasks, mark them as completed, and filter the list by various parameters.
+
 The application is developed using the React library, which allows for the rapid creation of interactive and efficient interfaces. HTTP requests were made to interact with an external API.
+
 Data is stored using the Local Storage mechanism, which ensures that data is saved between application sessions in the browser.
+
 The page layout is implemented using HTML, CSS, React Transition Group, and SCSS. Additionally, the ReactRouter library is used to implement navigation between application pages.
     - [DEMO LINK](https://gusillus.github.io/todo-app/)
